@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>AdatumCorporation.Utility.Templates</id>
+    <version>1.0.0</version>
+    <title>firstPackageTemplate</title>
+    <authors>Thom</authors>
+    <readme>README.md</readme>
+    <projectUrl>https://galileo-itservices.nl/</projectUrl>
+    <description>first package template to see if templating might be useful</description>
+    <tags>dotnet-new templates contoso</tags>
+    <packageTypes>
+      <packageType name="Template" />
+    </packageTypes>
+    <repository type="git" commit="81e772005b96e7ca67435560cf633faa94322cc5" />
+    <dependencies>
+      <group targetFramework="net10.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\ThomHoogmoed\Documents\GitHub\dotnet-template-test\working\content\consoleasync\.template.config\template.json" target="content\content\consoleasync\.template.config\template.json" />
+    <file src="C:\Users\ThomHoogmoed\Documents\GitHub\dotnet-template-test\working\content\consoleasync\consoleasync.csproj" target="content\content\consoleasync\consoleasync.csproj" />
+    <file src="C:\Users\ThomHoogmoed\Documents\GitHub\dotnet-template-test\working\content\consoleasync\Program.cs" target="content\content\consoleasync\Program.cs" />
+    <file src="C:\Users\ThomHoogmoed\Documents\GitHub\dotnet-template-test\working\content\extensions\.template.config\template.json" target="content\content\extensions\.template.config\template.json" />
+    <file src="C:\Users\ThomHoogmoed\Documents\GitHub\dotnet-template-test\working\content\extensions\StringExtensions.cs" target="content\content\extensions\StringExtensions.cs" />
+    <file src="C:\Users\ThomHoogmoed\Documents\GitHub\dotnet-template-test\working\README.md" target="README.md" />
+  </files>
+</package>

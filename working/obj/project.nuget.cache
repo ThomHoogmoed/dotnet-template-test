@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9TMBENzro4c=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ThomHoogmoed\\Documents\\GitHub\\dotnet-template-test\\working\\AdatumCorporation.Utility.Templates.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ThomHoogmoed\\.nuget\\packages\\microsoft.templateengine.tasks\\7.0.120\\microsoft.templateengine.tasks.7.0.120.nupkg.sha512"
+  ],
+  "logs": []
+}
